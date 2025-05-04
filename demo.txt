@@ -1,1 +1,2 @@
 Conflict branch conflict line
+New change on conflict branch
